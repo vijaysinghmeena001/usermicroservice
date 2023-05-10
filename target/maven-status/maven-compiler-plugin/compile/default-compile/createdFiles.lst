@@ -1,0 +1,8 @@
+com\vijay\user\DemoApplication.class
+com\vijay\user\UserRepository\UserRepo.class
+SpringSecurityConfig.class
+com\vijay\user\UserEntity\User.class
+com\vijay\user\config\Myconfig.class
+com\vijay\user\UserService\UserService.class
+com\vijay\user\UserEntity\RatingEntity.class
+com\vijay\user\UserController\UserController.class
